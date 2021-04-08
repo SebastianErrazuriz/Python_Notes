@@ -1,4 +1,4 @@
-## This is a DataCamp project.
+**This is a DataCamp project.**
 
 # Project Description
 
