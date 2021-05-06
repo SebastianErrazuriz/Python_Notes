@@ -7,36 +7,12 @@ Functions to use
 import numpy as np
 import matplotlib.pyplot as plt
 
-
-
-def table_toplot(equipo):
-    plt.bar(pos, var_one, color='green', edgecolor='green')
-    plt.bar(pos, var_two, color='purple', edgecolor='purple', bottom=var_one)
-    plt.bar(pos, var_three, color='yellow', edgecolor='yellow', bottom=np.add(var_one,var_two))
-
 def plot_stacked_bar(axes, ydata, series_labels, xdata=None, 
                      show_values=False, value_format="{}", y_label=None, 
                      colors=None, grid=True, reverse=False, title=None, ymax=None):
     
     """Plots a stacked bar chart with the data and labels provided.
 
-    Keyword arguments:
-    ydata (list)    -- 2-dimensional numpy array or nested list
-                       containing data for each series in rows
-    series_labels   -- list of series labels (these appear in
-                       the legend)
-    xdata (list):  -- list of category labels (these appear
-                       on the x-axis)
-    show_values     -- If True then numeric value labels will 
-                       be shown on each bar
-    value_format    -- Format string for numeric value labels
-                       (default is "{}")
-    y_label         -- Label for y-axis (str)
-    colors          -- List of color labels
-    grid            -- If True display grid
-    reverse         -- If True reverse the order that the
-                       series are displayed (left-to-right
-                       or right-to-left)
     """
 
     ny = len(ydata[0])
