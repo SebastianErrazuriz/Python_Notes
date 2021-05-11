@@ -183,7 +183,7 @@ def plot_2bar(axes, title, xdata, ydata=[], width=0.40, ylabel=[], color=[], yma
 def add_value_labels(ax, spacing=5):
     '''
     (Not my code) Add labels to the end of each bar in a bar chart.
-    @author: Sebastian Errazuriz
+    @author: unknown
 
     Parameters
     ----------
