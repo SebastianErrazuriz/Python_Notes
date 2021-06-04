@@ -1,4 +1,4 @@
-**This is a DataCamp project available at (https://learn.datacamp.com/projects/android-app-market)**
+**This is a DataCamp project available at (https://learn.datacamp.com)**
 
 # Project Description
 
