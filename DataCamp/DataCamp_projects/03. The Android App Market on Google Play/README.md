@@ -1,5 +1,3 @@
-**This is a DataCamp project available at (https://learn.datacamp.com)**
-
 # Project Description
 
 Mobile apps are everywhere. They are easy to create and can be lucrative. Because of these two factors, 
