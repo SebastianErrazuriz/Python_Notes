@@ -1,5 +1,3 @@
-**This is a DataCamp project available at (https://learn.datacamp.com)**
-
 # Project Description
 
 With Intermediate Python under your belt, you can already analyze and extract meaningful insights from various sources. For this set of projects, 
