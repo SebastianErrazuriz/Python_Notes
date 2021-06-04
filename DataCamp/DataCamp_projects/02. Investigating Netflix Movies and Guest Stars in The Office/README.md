@@ -1,5 +1,3 @@
-**This is a DataCamp project available at (https://learn.datacamp.com)**
-
 # Project Description
 
 In this project, you’ll apply the skills you learned in Introduction to Python and Intermediate Python to solve a real-world data science problem. You’ll press 
